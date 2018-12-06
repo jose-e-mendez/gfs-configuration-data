@@ -1,0 +1,9 @@
+profileMessage: I am QA
+
+spring:
+  flyway:
+    driver: com.mysql.jdbc.Driver
+    url: '{cipher}113cddc49784e573e6052831c8ccf06b243783af9b9a4f9e292b138b063630d49ff7c394732cfc0254b26b10467b05bd3487e08ecdd7fe2467e273ca0a6e98f469ee3e5e1304261317ae33b4585a45c0'
+    schemas: '{cipher}a6afa73f6fcb573a30d2815cc26e23056811eca9b2b878166667b5a135abe101'
+    user: '{cipher}691fc960f2543648a2b3c73142c379a8cb007cb86e44dbab8208d132ac5d1bfe'
+    password: '{cipher}729888fe406981f3cea70a40e11dbdfc7461dca7fc610364161fd2f5e0dffd27'
