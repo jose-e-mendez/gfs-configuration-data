@@ -4,5 +4,4 @@ spring:
   flyway:
     driver: com.mysql.jdbc.Driver
     user: fulfillment
-    #P@ssword
-    password: '{cipher}b43a77ba8f3043e16ff3e99f9d296e88f1a7f534d14d35621a6b4d748b83ed3e'
+    password: '{cipher}47e6c3b3c2bfbe54060474e229932cb64885dc2a5388fae119c50999c78b0239'
