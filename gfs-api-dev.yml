@@ -1,0 +1,10 @@
+profileMessage: I am DEVELOPMENT changed
+
+spring:
+  flyway:
+    driver: com.mysql.jdbc.Driver
+    url: 'jdbc:mysql://<your-computer-name>.researchnow.com:3306/'
+    schemas: test
+    user: root
+    #P@ssword
+    password: '{cipher}b43a77ba8f3043e16ff3e99f9d296e88f1a7f534d14d35621a6b4d748b83ed3e'
