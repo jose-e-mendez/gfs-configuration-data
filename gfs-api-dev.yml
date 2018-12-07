@@ -1,6 +1,1 @@
 profileMessage: I am DEVELOPMENT changed
-
-spring:
-  flyway:
-    driver: com.mysql.jdbc.Driver
-
