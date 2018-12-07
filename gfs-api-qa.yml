@@ -1,7 +1,1 @@
-profileMessage: I am QA
-
-spring:
-  flyway:
-    driver: com.mysql.jdbc.Driver
-    user: fulfillment
-    password: '{cipher}47e6c3b3c2bfbe54060474e229932cb64885dc2a5388fae119c50999c78b0239'
+profileMessage: QA_ENVIRONMENT
