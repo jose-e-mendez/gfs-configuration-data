@@ -1,1 +1,5 @@
 profileMessage: This is our PRODUCTION environment
+
+
+globalAllowFulfillmentRequests: 0
+globalAllowFulfillmentProcessing: 0

@@ -1,1 +1,4 @@
 profileMessage: This is our QA environment
+
+globalAllowFulfillmentRequests: 1
+globalAllowFulfillmentProcessing: 1
