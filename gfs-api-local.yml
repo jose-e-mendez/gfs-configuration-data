@@ -1,5 +1,4 @@
 profileMessage: This is our LOCAL environment
-
 globalAllowFulfillmentRequests: 1
 globalAllowFulfillmentProcessing: 1
 
@@ -22,3 +21,4 @@ ufs:
     system:
       realTimeProcessor:
         token: eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJpbnRlcm5hbCIsImV4cCI6OTYxNTY4OTI0MDQsImlhdCI6MTU0ODg5MjQwNH0.NxF7J9ZG-6UhMDtaCGbrjfPxrZlGBbR_k0OZzS4fS4c79P08QCdqLAIiZ9Fl1BsRXMGmPYLO9b-eVUSExxhXeg
+
