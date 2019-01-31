@@ -1,4 +1,23 @@
 profileMessage: This is our LOCAL environment
-
 globalAllowFulfillmentRequests: 1
 globalAllowFulfillmentProcessing: 1
+
+jwt:
+  secret: mySecret
+
+ufs:
+  security:
+    enabled: true
+    users:
+      default:
+        name: default
+        password: $2a$10$lsWZ6FHfgZSJTpxHIKpFFO83msPKt/j5V9i1MVSqPlE4NGDxlfsJm
+      nova:
+        name: nova
+        password: $2a$10$X.CX8VqyLiclKEp.zgUsseAaMr.EmQWj/rfS9zCWuMyiYRx8VUh0W
+      internal:
+        name: internal
+        password: $2a$10$LkO85K0jRqXw2pCKeSD7pejw/xzheW/TzoCj4Z26RvTRHYOp0H5Ny
+    system:
+      realTimeProcessor:
+        token: eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJpbnRlcm5hbCIsImV4cCI6OTYxNTY4OTI0MDQsImlhdCI6MTU0ODg5MjQwNH0.NxF7J9ZG-6UhMDtaCGbrjfPxrZlGBbR_k0OZzS4fS4c79P08QCdqLAIiZ9Fl1BsRXMGmPYLO9b-eVUSExxhXeg
