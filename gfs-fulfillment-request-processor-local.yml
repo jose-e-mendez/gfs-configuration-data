@@ -1,6 +1,5 @@
 profileMessage: This is our LOCAL environment
 
-
 jwt:
   secret: mySecret
 
@@ -16,4 +15,4 @@ ufs:
         password: $2a$10$LkO85K0jRqXw2pCKeSD7pejw/xzheW/TzoCj4Z26RvTRHYOp0H5Ny
     system:
       api:
-      token: eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJpbnRlcm5hbCIsImV4cCI6OTYxNTY4OTI0MDQsImlhdCI6MTU0ODg5MjQwNH0.NxF7J9ZG-6UhMDtaCGbrjfPxrZlGBbR_k0OZzS4fS4c79P08QCdqLAIiZ9Fl1BsRXMGmPYLO9b-eVUSExxhXeg
+        token: eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJpbnRlcm5hbCIsImV4cCI6OTYxNTY4OTI0MDQsImlhdCI6MTU0ODg5MjQwNH0.NxF7J9ZG-6UhMDtaCGbrjfPxrZlGBbR_k0OZzS4fS4c79P08QCdqLAIiZ9Fl1BsRXMGmPYLO9b-eVUSExxhXeg
