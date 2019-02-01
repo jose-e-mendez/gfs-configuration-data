@@ -1,5 +1,6 @@
 profileMessage: This is our LOCAL environment
 
+
 jwt:
   secret: mySecret
 
