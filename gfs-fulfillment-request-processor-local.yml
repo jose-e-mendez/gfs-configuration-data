@@ -10,9 +10,6 @@ ufs:
       default:
         name: default
         password: $2a$10$lsWZ6FHfgZSJTpxHIKpFFO83msPKt/j5V9i1MVSqPlE4NGDxlfsJm
-      nova:
-        name: nova
-        password: $2a$10$X.CX8VqyLiclKEp.zgUsseAaMr.EmQWj/rfS9zCWuMyiYRx8VUh0W
       internal:
         name: internal
         password: $2a$10$LkO85K0jRqXw2pCKeSD7pejw/xzheW/TzoCj4Z26RvTRHYOp0H5Ny
